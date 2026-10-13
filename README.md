@@ -195,7 +195,7 @@ Research-oriented work exploring privacy-preserving intrusion detection, federat
 ## 🚀 My Coding Journey
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikhyathks-10&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikhyathks-10" alt="GitHub Contribution Activity Graph" />
 </p>
 
 <p align="center">
@@ -212,7 +212,7 @@ Research-oriented work exploring privacy-preserving intrusion detection, federat
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikhyathks-10&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Profile Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=vikhyathks-10&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Profile Trophies" />
 </p>
 
 ---
