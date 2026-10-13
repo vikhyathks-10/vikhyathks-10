@@ -159,7 +159,20 @@ Research-oriented work exploring privacy-preserving intrusion detection, federat
 - Collaborative development using Git and GitHub
 
 ---
+## 🔥 My Coding Consistency
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vikhyathks-10&theme=default&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikhyathks-10&theme=github-compact&hide_border=true" alt="GitHub Contribution Activity Graph" />
+</p>
+
+<p align="center">
+  <i>Consistently learning, building, and improving through code.</i>
+</p>
+-----
 ## 🎯 Goals
 
 - Build meaningful projects that solve practical problems.
