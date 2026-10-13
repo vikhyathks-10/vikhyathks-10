@@ -5,15 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Exploring+AI+%26+Machine+Learning;Building+Practical+Software+Solutions;Learning+DSA+and+Problem+Solving" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/vikhyathks-10">
-    <img src="https://komarev.com/ghpvc/?username=vikhyathks-10&label=Profile%20Views&color=2563eb&style=flat" alt="Profile Views" />
-  </a>
-</p>
-
 ---
-
 ## 👨‍💻 About Me
 
 Hi, I'm **Vikhyath Bharadwaj K S**, a Computer Science and Engineering student at **PES University, Bengaluru**, with a strong interest in technology, problem-solving, and building practical solutions to real-world challenges.
