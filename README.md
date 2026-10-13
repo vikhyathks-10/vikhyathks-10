@@ -10,9 +10,6 @@
   <a href="https://github.com/vikhyathks-10">
     <img src="https://komarev.com/ghpvc/?username=vikhyathks-10&label=Profile%20Views&color=2563eb&style=flat" alt="Profile Views" />
   </a>
-  <a href="https://github.com/vikhyathks-10?tab=followers">
-    <img src="https://img.shields.io/github/followers/vikhyathks-10?label=Followers&style=flat&color=2563eb" alt="GitHub Followers" />
-  </a>
 </p>
 
 ---
