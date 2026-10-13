@@ -192,23 +192,6 @@ Research-oriented work exploring privacy-preserving intrusion detection, federat
 
 ---
 
-## 🚀 My Coding Journey
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikhyathks-10" alt="GitHub Contribution Activity Graph" />
-</p>
-
-<p align="center">
-  <i>Consistently learning, building, and improving through code.</i>
-</p>
-
-- 📌 Working on practical projects and collaborating with teammates.
-- 🧠 Practising Data Structures and Algorithms with Python.
-- 🛠️ Improving my development workflow through Git, GitHub, and meaningful commits.
-- 🌱 Focusing on steady progress and learning something useful with every project.
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
